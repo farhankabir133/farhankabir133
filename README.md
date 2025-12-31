@@ -43,3 +43,4 @@ user@farhan-kabir:~$ cat current-status.txt
 > 📝 Researching:    NLP, Emotion Detection, & ML
 > 🎓 Publications:   ICCIT 2023 (Depression Detection)
                      ECCE 2025 (Emotion Detection)
+                     ICCIT 2025 (AI-Driven Live Interview System)
