@@ -1,43 +1,34 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Farhan%20Kabir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System.out.print(%22Hello%20World!%22)&descAlignY=60&descAlign=50" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&background=00000000&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+%2B+AI;Crafting+Digital+Experiences;UI%2FUX+Designer+%26+Prompt+Specialist;Researcher+(ICCIT+'23+%7C+ECCE+'25)" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Initializing+AI+Agents...;Building+SaaS+Products...;Compiling+Research+Papers...;Error:+Sleep+Not+Found." alt="Typing SVG" />
+  </a>
+</div>
 
-  <h3>Hi there, I'm Farhan Kabir! 👋</h3>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=farhankabir133&label=Profile%20Views&color=0e75b6&style=flat" alt="farhankabir133" />
-  </p>
+<br/>
 
-  <p>
-    <b> 💻 Software Engineer (Auto Spark) | 🎨 Creative Technologist</b><br/>
-    I craft digital experiences that blend <b>beautiful design</b> with <b>powerful functionality.</b><br/>
-    <i>"Trying to make people's lives better through tech and creativity!!"</i>
-  </p>
-
-  <p>
-    <a href="https://farhankabir.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-farhankabir.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://medium.com/@farhankabir133" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-The_Ink_Home-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="https://www.linkedin.com/in/farhankabir133" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:farhankabir133@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<div align="center">
+  <a href="https://farhankabir.me">
+    <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-farhankabir.me-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@farhankabir133">
+    <img src="https://img.shields.io/badge/READ_LOGS-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://gumroad.com/">
+    <img src="https://img.shields.io/badge/DOWNLOAD_ASSETS-Gumroad-000000?style=for-the-badge&logo=gumroad&logoColor=ff9000" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 The "Virtual Terminal" Log
-```bash
-user@farhan-kabir:~$ cat current-status.txt
-
-> 🔭 Working at:     Auto Spark (Full Stack Developer)
-> 🌱 Building:       InteractIQ & AI Dashboards
-> 📝 Researching:    NLP, Emotion Detection, & ML
-> 🎓 Publications:   ICCIT 2023 (Depression Detection)
-                     ECCE 2025 (Emotion Detection)
+### 👨‍💻 `whoami.json`
+```json
+{
+  "user": "Farhan Kabir",
+  "archetype": ["Builder", "Researcher", "Creative Technologist"],
+  "location": "Rajshahi, BD",
+  "codebase": ["React", "Node.js", "Python", "Next.js"],
+  "current_obsession": "Building AI Agents that actually work",
+  "mission": "To bridge the gap between complex AI and human UI."
+}
