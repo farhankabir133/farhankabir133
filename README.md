@@ -32,3 +32,9 @@
   "current_obsession": "Building AI Agents that actually work",
   "mission": "To bridge the gap between complex AI and human UI."
 }
+
+
+🛠️ dependencies (The Stack)
+My weapon of choice is JavaScript, but Python is my secret sauce for AI.
+
+<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,nodejs,express,mongodb,redux,python,pytorch,tensorflow,bash,git,docker,linux,vscode,figma,postman%26perline%3D14%26theme%3Ddark" /> </div>
