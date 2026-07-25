@@ -1,79 +1,49 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dylanaraps/neofetch/master/neofetch.png" alt="Neofetch" width="60px">
+Github Profile Style:
+
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+AI+Engineer;Software+Engineer;Researcher+%26+Writer;Creative+Technologist" alt="Typing SVG" />
+
+  <h3>Hi there, I'm Farhan Kabir! 👋</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=farhankabir133&label=Profile%20Views&color=0e75b6&style=flat" alt="farhankabir133" />
+  </p>
+
+  <p>
+        <p align="center">
+  <img src="https://images.pexels.com/photos/34100614/pexels-photo-34100614.png" alt="FK's Personal Site" height="220" />
 </p>
+    <b>💻 Software Engineer | Full-Stack AI Engineer | Researcher | Writer | 🎨 Creative Technologist</b><br/>
+    I craft digital experiences that blend <b>beautiful design</b> with <b>powerful functionality.</b><br/>
+    <i>"Trying to make people's lives better through tech and creativity!!"</i>
 
-<h1 align="center">farhankabir@github-profile</h1>
-<p align="center"><i>System Information | Profile Stats</i></p>
+  <p>
+    <a href="https://farhankabir.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-farhankabir.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://medium.com/@farhankabir133" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-The_Ink_Home-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://www.linkedin.com/in/farhankabir133" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:farhankabir133@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<br>
+---
 
-<!-- The HTML table below ensures side-by-side alignment that is responsive on mobile devices -->
-<table align="center">
-  <tr>
-    <!-- LEFT COLUMN: ASCII ART -->
-    <td align="center" valign="top" width="40%">
-      <pre>
-          .-:+syhdNNmddhyso+:-.
-        /shdmNNNNNNNNNNNNNNNdhs\
-       hNNNNNNNNNNNNNNNNNNNNNNNh
-      dNNNNNNNNNNNNNNNNNNNNNNNNNd
-     yNNNNNNNNNNNNNNNNNNNNNNNNNNNy
-     NNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-     NNNNNNMNmmddhysssyhddmmNMMNNN
-     NNNNNMy/::--......--::/yMNNNN
-     NNNNd+.  `.-:////:-.`  .+dNNN
-     NNMm`  .:+ssssssssss+:.  `mMN
-     NMN`  osssyhhyyyyhhysssso  `MN
-     NNh  sssshdNNNNNNNdhssss  hNN
-     NNs  ossydMMMMMMMmDyso  sNN
-     NN/  -sssyNNNNNNNysss-  /NN
-     NN:   +sssyhhhhysss+   :NN
-     NN/    :sssssssss:    /NN
-     NNNs`   .oysyyso.   `sNNN
-     MNNNo`    -++++-    `oNNNM
-     NMMMMNs-  /dddd/  -sNMMMMN
-     NMMMMMMMy/-:////-:sNMMMMMMN
-     NMMMMMMMMMdysssydNMMMMMMMMN
-     MMMMMMMMMMMMMMMMMMMMMMMMMMM
-      </pre>
-      <p align="center"><i>Farhan Kabir</i></p>
-    </td>
+### 👨‍💻 The "Virtual Terminal" Log
+```bash
+user@farhan-kabir:~$ cat current-status.txt
 
-    <!-- RIGHT COLUMN: PROFILE STATS (NEOFETCH STYLE) -->
-    <td align="left" valign="top" width="60%">
-      ```text
-      farhankabir@github-profile:~$ neofetch
-      ------------------------------------------
-      Host: Farhan-Kabir @ GitHub
-      Uptime: Since 2022
-      Role: Full-Stack Developer | AI Engineer | Product Designer
-      Location: Rajshahi, Bangladesh
-      Education: B.Sc. in CSE, RUET
-      Current Role: Lead Developer at Auto Spark
-      Core Tech Stack:
-       - Web: React, TypeScript, Node.js, Tailwind CSS
-       - AI/Data: Python, Django, Flask, Supabase,
-         Google AI Studio, local AI agent frameworks
-      Interests: Prompt engineering, agentic AI systems,
-                 classical literature, automated workflows
-      Contact/Links:
-       - GitHub: [https://github.com/Farhan-Kabir](https://github.com/Farhan-Kabir)
-       - LinkedIn: [https://linkedin.com/in/Farhan-Kabir-Redoy](https://linkedin.com/in/Farhan-Kabir-Redoy)
-       - Medium: [https://medium.com/@The_Ink_Home](https://medium.com/@The_Ink_Home)
-       - Email: mailto:farhan.kabir.redoy@email.com
-      Colors: [41m   [42m   [43m   [44m   [45m   [46m   [47m   [0m
-      ```
-    </td>
-  </tr>
-</table>
-
-<br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Farhan-Kabir&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Farhan-Kabir's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Kabir&layout=compact&theme=radical" alt="Farhan-Kabir's Top Languages" />
-  </a>
-</p>
-<p align="center"><i>Designed with 💖 by an expert GitHub profile developer.</i></p>
+> 🔭 Working at:     Auto Spark (Full Stack Developer)
+> 🌱 Building:       InteractIQ & AI Dashboards
+> 📝 Researching:    NLP, Emotion Detection, & ML
+> 🎓 Publications:   ICCIT 2023 (Depression Detection)
+                     ECCE 2025 (Emotion Detection)
+                     ICCIT 2025 (AI-Driven Live Interview System)
