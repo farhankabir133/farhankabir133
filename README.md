@@ -11,39 +11,36 @@
 <table align="center">
   <tr>
     <!-- LEFT COLUMN: ASCII ART -->
-    <td align="center" valign="top" width="35%">
+    <td align="center" valign="top" width="40%">
       <pre>
-            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-           @@@@@@@@@@@@@@@@@@@@@@@@@@@@
-             @@@@@@@@@@@@@@@@@@@@@@@@
-                @@@@@@@@@@@@@@@@@@
-                   @@@@@@@@@@@@
-                      @@@@@@@@
-                        @@@@
-                          @
+          .-:+syhdNNmddhyso+:-.
+        /shdmNNNNNNNNNNNNNNNdhs\
+       hNNNNNNNNNNNNNNNNNNNNNNNh
+      dNNNNNNNNNNNNNNNNNNNNNNNNNd
+     yNNNNNNNNNNNNNNNNNNNNNNNNNNNy
+     NNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+     NNNNNNMNmmddhysssyhddmmNMMNNN
+     NNNNNMy/::--......--::/yMNNNN
+     NNNNd+.  `.-:////:-.`  .+dNNN
+     NNMm`  .:+ssssssssss+:.  `mMN
+     NMN`  osssyhhyyyyhhysssso  `MN
+     NNh  sssshdNNNNNNNdhssss  hNN
+     NNs  ossydMMMMMMMmDyso  sNN
+     NN/  -sssyNNNNNNNysss-  /NN
+     NN:   +sssyhhhhysss+   :NN
+     NN/    :sssssssss:    /NN
+     NNNs`   .oysyyso.   `sNNN
+     MNNNo`    -++++-    `oNNNM
+     NMMMMNs-  /dddd/  -sNMMMMN
+     NMMMMMMMy/-:////-:sNMMMMMMN
+     NMMMMMMMMMdysssydNMMMMMMMMN
+     MMMMMMMMMMMMMMMMMMMMMMMMMMM
       </pre>
       <p align="center"><i>Farhan Kabir</i></p>
     </td>
 
     <!-- RIGHT COLUMN: PROFILE STATS (NEOFETCH STYLE) -->
-    <td align="left" valign="top" width="65%">
+    <td align="left" valign="top" width="60%">
       ```text
       farhankabir@github-profile:~$ neofetch
       ------------------------------------------
