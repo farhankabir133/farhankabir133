@@ -12,9 +12,11 @@ Github Profile Style:
   </p>
 
   <p>
-        <p align="center">
-  <img src="https://images.pexels.com/photos/34100614/pexels-photo-34100614.png" alt="FK's Personal Site" height="220" />
-</p>
+  <p align="center">
+    <img src="./sketch-loop.gif" width="220" height="220" alt="Farhan Kabir - photo to sketch loop" />
+    <br/>
+    <i>✏️ photo → sketch → photo… on loop</i>
+  </p>
     <b>💻 Software Engineer | Full-Stack AI Engineer | Researcher | Writer | 🎨 Creative Technologist</b><br/>
     I craft digital experiences that blend <b>beautiful design</b> with <b>powerful functionality.</b><br/>
     <i>"Trying to make people's lives better through tech and creativity!!"</i>
